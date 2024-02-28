@@ -2,11 +2,11 @@
     height: 60px;
     width: 90vw;
     margin: 0 auto;
-    margin-top: 65px;
+    /* margin-top: 65px; */
     padding-left: 1em;
     padding-right: 1em;
     box-sizing: border-box;
-    display: block;
+    /* display: block; */
     box-shadow: 0px 10px 40px rgba(0, 0, 0, 0.15),
       0px 10px 10px rgba(0, 0, 0, 0.1);
     border-radius:40px;
@@ -21,7 +21,6 @@
   
   .navbar .logo {
     text-transform: uppercase;
-    font-family: "Source Sans Pro", sans-serif;
     font-weight: 300;
     font-size: 16pt;
   }
@@ -47,7 +46,6 @@
     padding: 0.25em 1em 0.25em 1em;
     color: #090909;
     text-decoration: none;
-    font-family: "Source Sans Pro", sans-serif;
     font-weight: 400;
   }
   

@@ -3,8 +3,8 @@ import styles from './Navbar.module.css';
 
 const Navbar: React.FC<{}> = () => {
     return (
-        <div><nav className="navbar">
-        <div className={styles['logo']}><a href="#">Toby Schmidt</a></div>
+        <div><nav className={styles['navbar']}>
+        <div className={styles['logo']}><a href="#">Jatin</a></div>
         <ul>
           <li><a href="#">Webdesign</a></li>
           <li><a href="#">Content</a></li>
